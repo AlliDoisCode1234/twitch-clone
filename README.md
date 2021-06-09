@@ -7,7 +7,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7abc2832-a50e-44b2-9bde-7b1aa53ecd0d/deploy-status)](https://app.netlify.com/sites/twitch-clone-by-jamesfowlerdev/deploys)
 
-![alt tag](https://i.imgur.com/RJ2fC4M.png)
+![alt tag](https://i.imgur.com/h8SAR0A.png)
 
 ## How It's Made:
 
