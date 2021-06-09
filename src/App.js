@@ -1,7 +1,6 @@
 import './App.css';
 import Body from './Body';
 import Header from './Header'
-import Profile from './Profile';
 import Sidebar from './Sidebar';
 
 

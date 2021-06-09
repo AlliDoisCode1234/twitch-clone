@@ -16,12 +16,12 @@ const Header = () => {
                 <div className="header__verticalLine"></div>
                 <h2>Esports</h2>
                 <h2>Music</h2>
-                <i class="fas fa-ellipsis-h"></i>
+                <i className="fas fa-ellipsis-h"></i>
             </div>
             <div className="header__center">
                 <input type="text" placeholder='Search' />
                 <div className="header__centerLogoContainer">
-                    <i class="fas fa-search"></i>
+                    <i className="fas fa-search"></i>
                 </div>
             </div>
             <div className="header__right">

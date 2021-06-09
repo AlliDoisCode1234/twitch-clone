@@ -24,7 +24,7 @@ const Profile = () => {
                 <h2>About</h2>
                 <h2>Schedule</h2>
                 <h2>Videos</h2>
-                <h2><i class="fas fa-arrow-up"></i></h2>
+                <h2><i className="fas fa-arrow-up"></i></h2>
                 <h2>Chat</h2>
             </div>
         </div>
