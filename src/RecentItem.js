@@ -8,11 +8,14 @@ const RecentItem = ({ url, title }) => {
                 width="400"
                 height="235"
                 src={url}
+                title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen={true}></iframe>
+                allowfullscreen>
+            </iframe>
+
             <div className="item__details">
-                <img src="" alt="details" />
+                <img src="https://static-cdn.jtvnw.net/ttv-boxart/Science%20&%20Technology-285x380.jpg" alt="genre" />
                 <div className="item__detailsText">
                     <h4>{title}</h4>
                     <p>funnyCommentary</p>

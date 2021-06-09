@@ -1,5 +1,6 @@
 import React from 'react'
 import './Profile.css'
+import RecentItem from './RecentItem'
 
 const Profile = () => {
     return (
@@ -11,7 +12,7 @@ const Profile = () => {
                 />
             </div>
             <div className="profile__topLeftDetails">
-                <h1>SuperSmartProgrammer</h1>
+                <h1>Super_Smart_Programmer</h1>
                 <h3>840k followers</h3>
             </div>
             <div className="profile__topRight">
@@ -31,7 +32,11 @@ const Profile = () => {
             <div className="profile__recent">
                 <h2>Recent broadcasts</h2>
                 <div className="profile__recentItems">
+                    <RecentItem
+                        url={'https://www.youtube.com/embed/ktjafK4SgWM'}
+                        title={'Learn the MERN Stack - Full Tutorial for Beginners (MongoDB, ExpressJS, ReactJS, NodeJS'}
 
+                    />
                 </div>
             </div>
         </div>
