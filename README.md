@@ -1,5 +1,6 @@
 # My Awesome Project
-Responsive clone of Tesla's web application with scalability in mind. 
+
+**Responsive clone of Twitch's user profile page on their web application with accessibility in mind.**
 
 
 **Link to project:** https://60c11e94d022ea31e71ea4a4--hungry-williams-a671c4.netlify.app/
