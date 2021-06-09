@@ -10,10 +10,10 @@ const Profile = () => {
                     src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300"
                     alt="profile avatar"
                 />
-            </div>
-            <div className="profile__topLeftDetails">
-                <h1>Super_Smart_Programmer</h1>
-                <h3>840k followers</h3>
+                <div className="profile__topLeftDetails">
+                    <h1>FunnyCommentary</h1>
+                    <h3>840k followers</h3>
+                </div>
             </div>
             <div className="profile__topRight">
                 <i className="fas fa-heart graybg"></i>
@@ -33,25 +33,26 @@ const Profile = () => {
                 <h2>Recent broadcasts</h2>
                 <div className="profile__recentItems">
                     <RecentItem
-                        url={'https://www.youtube.com/embed/ktjafK4SgWM'}
-                        title={'Learn the MERN Stack - Full Tutorial for Beginners (MongoDB, ExpressJS, ReactJS, NodeJS'}
+                        url={'https://www.youtube.com/embed/WY5MQtAym5w'}
+                        title={"🔴 Let's Setup The End Of Program"}
 
                     />
                     <RecentItem
-                        url={'https://www.youtube.com/embed/DFzP6gA0tkQ'}
-                        title={'🔴 How to Earn $1,000 as a Freelance Developer in 30 days (Part 2)'}
+                        url={'https://www.youtube.com/embed/TEIf-OW_PZw'}
+                        title={"🔴 Let's Build A Social Network!! Team Project!"}
 
                     />
                     <RecentItem
-                        url={'https://www.youtube.com/embed/l1yXs-7RU5E'}
-                        title={'🔴 Let Us Build an Alexa Skill in 2020 (Voice)'}
+                        url={'https://www.youtube.com/embed/s2s9SaCLYHk'}
+                        title={'🔴Teamwork Makes The Dream Work! Team Project!'}
 
                     />
                     <RecentItem
-                        url={'https://www.youtube.com/embed/5NlVMTYGlwg'}
-                        title={'🔴 It is time to learn React 2.0! (Styled components/ Storybook/ Redux'}
+                        url={'https://www.youtube.com/embed/x3-O-Ond9AI'}
+                        title={'🔴 A Short Class On Getting A Job'}
 
                     />
+
                 </div>
             </div>
         </div>

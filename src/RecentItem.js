@@ -18,7 +18,7 @@ const RecentItem = ({ url, title }) => {
                 <img src="https://static-cdn.jtvnw.net/ttv-boxart/Science%20&%20Technology-285x380.jpg" alt="genre" />
                 <div className="item__detailsText">
                     <h4>{title}</h4>
-                    <p>funnyCommentary</p>
+                    <p>FunnyCommentary</p>
                     <p>Science & Technology</p>
                 </div>
             </div>

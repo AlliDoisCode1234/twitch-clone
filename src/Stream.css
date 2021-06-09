@@ -33,14 +33,18 @@
 .stream__statusInfo {
     display: flex;
     align-items: center;
+    padding-top: 7px;
 }
 
 .stream__statusInfo>i {
     margin-right: 20px;
+    
 }
 
 .stream__status>div>div>h2 {
-    font-size: 35px;
+    font-size: 30px;
+    overflow-wrap:break-word;
+    
 }
 
 .stream__video {

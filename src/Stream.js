@@ -9,11 +9,11 @@ const Stream = () => {
                     <div className="stream__statusContainer">
                         <div className="stream__statusContainerTop">
                             <div className="stream__statusIndicator">OFFLINE</div>
-                            <h2>Check out the below streams from Super_Smart_Programmer</h2>
+                            <h2>Check out the below streams from FunnyCommentary</h2>
                         </div>
                         <div className="stream__statusInfo">
                             <i className="fas fa-bell"></i>
-                            <p>You will be notified when Super_Smart_Programmer is live</p>
+                            <p>You will be notified when FunnyCommentary is live</p>
                         </div>
                     </div>
                 </div>
