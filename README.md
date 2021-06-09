@@ -3,7 +3,7 @@
 **Responsive clone of Twitch's user profile page on their web application with accessibility in mind.**
 
 
-**Link to project:** https://60c11e94d022ea31e71ea4a4--hungry-williams-a671c4.netlify.app/
+**Link to project:** https://twitch-clone-by-jamesfowlerdev.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7abc2832-a50e-44b2-9bde-7b1aa53ecd0d/deploy-status)](https://app.netlify.com/sites/twitch-clone-by-jamesfowlerdev/deploys)
 
