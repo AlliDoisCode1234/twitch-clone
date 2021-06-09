@@ -1,11 +1,13 @@
 import React from 'react'
+import { Avatar } from '@material-ui/core'
+import './Header.css'
 
 const Header = () => {
     return (
         <div className='header'>
             <div className="header__left">
                 <img
-                    className="header__left"
+                    className="header__leftLogo"
                     src="https://pngimg.com/uploads/twitch/twitch_PNG6.png"
                     alt="twitch logo"
                 />
@@ -32,6 +34,8 @@ const Header = () => {
                         <i className="fas fa-gem"></i>
                         <h4>Get Bits</h4>
                     </div>
+
+                    <Avatar />
                 </div>
             </div>
 
