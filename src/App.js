@@ -1,5 +1,7 @@
 import './App.css';
+import Body from './Body';
 import Header from './Header'
+import Profile from './Profile';
 import Sidebar from './Sidebar';
 
 
@@ -8,7 +10,11 @@ function App() {
     // BEM
     <div className="app">
       <Header />
-      <Sidebar />
+      <div className="app__main">
+        <Sidebar />
+        <Body />
+
+      </div>
     </div>
   );
 }
