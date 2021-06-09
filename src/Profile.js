@@ -37,6 +37,21 @@ const Profile = () => {
                         title={'Learn the MERN Stack - Full Tutorial for Beginners (MongoDB, ExpressJS, ReactJS, NodeJS'}
 
                     />
+                    <RecentItem
+                        url={'https://www.youtube.com/embed/DFzP6gA0tkQ'}
+                        title={'🔴 How to Earn $1,000 as a Freelance Developer in 30 days (Part 2)'}
+
+                    />
+                    <RecentItem
+                        url={'https://www.youtube.com/embed/l1yXs-7RU5E'}
+                        title={'🔴 Let Us Build an Alexa Skill in 2020 (Voice)'}
+
+                    />
+                    <RecentItem
+                        url={'https://www.youtube.com/embed/5NlVMTYGlwg'}
+                        title={'🔴 It is time to learn React 2.0! (Styled components/ Storybook/ Redux'}
+
+                    />
                 </div>
             </div>
         </div>
